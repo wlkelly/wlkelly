@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, how are you doing?</h1>
-<h3 align="center">A Passionate Full-Stack Web Developer</h3>
+<h1 align="center">Hi 👋, how are you ?</h1>
+<h3 align="center">Senior Full-Stack Engineer</h3>
 
-<!--Intro start-->
 
-- 🔭 I’m currently working on **AWS, React, Nodejs, MongoDB**
 
 
 <!-- - 🏠 Don't hesitate to drop me a **👋** on Skype – [live:.cid.e83e77ce7e2a5aee](https://web.skype.com/?openPstnPage=true)  my username!
@@ -52,11 +50,12 @@
 </div>
 <!--tech stack icons-->
 
-### Programming Language
+
+### Programming Languages
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,php" />
+    <img src="https://skillicons.dev/icons?i=py,nodejs,ts,js,java,cs,go" />
   </a>
 </p>
 
@@ -64,41 +63,66 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,gatsby,vue,angular,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,angular,vue,tailwind,html,css,js" />
   </a>
 </p>
 
-### Backend
+### Backend & APIs
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,express,nestjs,django" />
+    <img src="https://skillicons.dev/icons?i=fastapi,flask,django,spring,express,nestjs,dotnet" />
   </a>
 </p>
 
-### Database
+### Databases & Messaging
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,dynamodb,oracle" />
   </a>
 </p>
 
-### Cloud Servers
+⚡ Additional: Snowflake, Databricks, SQL Server, Kafka, RabbitMQ, SQS, Spark *(not in skillicons.dev)*
+
+### Cloud Platforms
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,cloudflare" />
   </a>
 </p>
 
-### Tools
+### DevOps & Infrastructure
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,terraform,git,github,linux" />
   </a>
 </p>
+
+⚡ Additional: Ansible, CloudFormation, CI/CD pipelines *(not in skillicons.dev)*
+
+### Observability & QA
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jest,postman" />
+  </a>
+</p>
+
+⚡ Additional: Pytest, unittest, Selenium, Cypress, Mocha, Chai, SonarQube, Datadog, Grafana, Prometheus, Splunk, ELK, New Relic *(not in skillicons.dev)*
+
+### Tools & Others
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,xd,idea,vscode,npm,yarn,vite,webpack,babel" />
+  </a>
+</p>
+
+⚡ Additional: SQLAlchemy, Celery, Sequelize, FFmpeg, Jira, Bash, Agile/Scrum *(not in skillicons.dev)*
+
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
