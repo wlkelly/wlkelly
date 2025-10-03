@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, how are you ?</h1>
-<h3 align="center">Senior Full-Stack Engineer</h3>
+<h1 align="center">Hey there 👋, welcome to my space!</h1>
+<h3 align="center">🚀 Senior Full-Stack Engineer | Cloud & Backend Specialist</h3>
 
-
-
+<p align="center">
+  Passionate about building scalable systems, crafting clean code, and solving real-world problems with technology.  
+  
+</p>
 
 <!-- - 🏠 Don't hesitate to drop me a **👋** on Skype – [live:.cid.e83e77ce7e2a5aee](https://web.skype.com/?openPstnPage=true)  my username!
 
@@ -55,7 +57,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,nodejs,ts,js,java,cs,go" />
+    <img src="https://skillicons.dev/icons?i=py,java,cs,go,nodejs,ts,js" />
   </a>
 </p>
 
@@ -63,7 +65,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,angular,vue,tailwind,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,tailwind,html,css,js" />
   </a>
 </p>
 
@@ -83,7 +85,7 @@
   </a>
 </p>
 
-⚡ Additional: Snowflake, Databricks, SQL Server, Kafka, RabbitMQ, SQS, Spark *(not in skillicons.dev)*
+⚡ Additional: Snowflake, Databricks, SQL Server, Kafka, RabbitMQ, SQS, Spark
 
 ### Cloud Platforms
 
@@ -97,11 +99,11 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,terraform,git,github,linux" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,git,github,linux" />
   </a>
 </p>
 
-⚡ Additional: Ansible, CloudFormation, CI/CD pipelines *(not in skillicons.dev)*
+⚡ Additional: Ansible, CloudFormation
 
 ### Observability & QA
 
@@ -111,7 +113,7 @@
   </a>
 </p>
 
-⚡ Additional: Pytest, unittest, Selenium, Cypress, Mocha, Chai, SonarQube, Datadog, Grafana, Prometheus, Splunk, ELK, New Relic *(not in skillicons.dev)*
+⚡ Additional: Pytest, unittest, Selenium, Cypress, Mocha, Chai, SonarQube, Datadog, Grafana, Prometheus, Splunk, ELK, New Relic
 
 ### Tools & Others
 
@@ -123,30 +125,3 @@
 
 ⚡ Additional: SQLAlchemy, Celery, Sequelize, FFmpeg, Jira, Bash, Agile/Scrum *(not in skillicons.dev)*
 
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/wlkelly/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://wlkelly.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-<a href="https://dev.to/wlkelly" target="blank">
-    <img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-        alt="techforest" height="30" width="40" />
-    </a>
-</p>
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=wlkelly&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
